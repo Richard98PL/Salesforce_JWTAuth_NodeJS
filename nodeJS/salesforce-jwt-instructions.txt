@@ -1,0 +1,3 @@
+Perform requests at any time (refresh_token, offline_access) must be added to app
+allow admin users only 
+server.key is to request, server.crt is to upload to managed app
